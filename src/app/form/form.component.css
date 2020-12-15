@@ -1,10 +1,8 @@
 body {
     text-align: center;
-    display: block;
 }
 form {
     display: inline-block;
-    display: block;
 }
 
 .input{
@@ -21,5 +19,4 @@ form {
   	text-decoration: none;
   	display: inline-block;
   	font-size: 16px;
-  	display: block;
 }
